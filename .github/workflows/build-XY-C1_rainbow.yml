@@ -20,7 +20,7 @@ env:
   WORK_PATH: /opt/rt-n56u
   TIME_ZONE: Asia/Shanghai
   TARGET_NAME: XY-C1
-  FIRMWARE_VERSION: 20201015
+  FIRMWARE_VERSION: 20210122
   FIRMWARE_DATEPREFIX: $(date +"%Y%m%d")
   FIRMWARE_AUTHOR: chongshengB
   FIRMWARE_PATH: /opt/firmwares
